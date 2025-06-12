@@ -1,0 +1,9 @@
+stramlit
+selenium
+os
+panada
+random
+pickle
+dotenv
+chromedriver.exe
+time
